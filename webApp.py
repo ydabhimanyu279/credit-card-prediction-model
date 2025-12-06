@@ -774,7 +774,7 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #7f8c8d; padding: 20px;'>
     <p style='font-size: 1.1rem;'>💳 <strong>Credit Card Purchase Prediction System</strong></p>
-    <p>Powered by Machine Learning | Built with Streamlit</p>
-    <p style='font-size: 0.9rem;'>© 2024 | All Rights Reserved</p>
+    <p>Made by Abhimanyu | Built with Streamlit</p>
+    <p style='font-size: 0.9rem;'>All Rights Reserved</p>
 </div>
 """, unsafe_allow_html=True)
