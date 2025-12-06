@@ -160,7 +160,7 @@ def make_prediction(input_data):
 
 # Title and Header
 st.markdown('<h1 class="main-header">💳 Credit Card Purchase Prediction</h1>', unsafe_allow_html=True)
-st.markdown('<p class="sub-header">AI-Powered Customer Targeting System for Banking</p>', unsafe_allow_html=True)
+st.markdown('<p class="sub-header">Customer Targeting System for Banking</p>', unsafe_allow_html=True)
 
 # Sidebar
 with st.sidebar:
